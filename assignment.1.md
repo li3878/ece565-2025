@@ -1,5 +1,5 @@
-## ECE 565 Programming Assignment 1 Fall 2023
-### Professor Mithuna Thottethodi
+## ECE 565 Programming Assignment 1 Fall 2025
+### Professor T.N. Vijaykumar
 
 1. **Introduction**
     
@@ -92,4 +92,4 @@ For this assignment, we will use the ECE565-C86 and the ECE565-ARM build configu
     
     The main deliverable of this assignment that will be graded is a report (and not the code). Because no coding is expected in this assignment, no code submission is needed. 
     
-    Submit a report (maximum three pages) via gradescope with graphs and/or tables to present results from your simulation runs. The report must include (1) A summary of the instruction mix for the 'hello' program (as a pie chart, or a table), (2) Plot bar-graphs with benchmarks on the X-axis and IPC on the Y-axis.  This report is NOT meant to be an exercise in writing. The purpose is merely to confirm that you have successfully built and run the simulator and the benchmarks. 
+    Submit a report (maximum one page) via BrS with graphs and/or tables to present results from your simulation runs. The report must include (1) A summary of the instruction mix for the 'hello' program (as a pie chart, or a table), (2) Plot bar-graphs with benchmarks on the X-axis and IPC on the Y-axis.  This report is NOT meant to be an exercise in writing. The purpose is merely to confirm that you have successfully built and run the simulator and the benchmarks. 
