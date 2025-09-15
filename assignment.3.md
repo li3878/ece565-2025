@@ -136,19 +136,20 @@ For this part, we want to be able to split up the Execution Unit into two stages
     
 The main deliverable of this assignment that will be graded is a report (and not the code). 
 
-Answer the following questions via BrS:
+Answer the following questions:
 
 1) Which (Oplat, IssueLat) pair will will produce the highest IPC? Why? (Max 20 words)
 2) Is there a case that (Oplat = 1, IusseLat = 6) will perform best? why? (Max 20 words)
 3) Any observations from splitting the EX stage (Max 30 words)
 
-Your report (maximum 2 pages) for part 3 should include:
+For part 3, maximum 2 pages, your report should include:
 1) bar-graphs with benchmarks on the X-axis and IPC on the Y-axis to show the result of the Branch Prediction Degradation
-2) graphs that support your observations (from splitting the EX stage)
+2) graphs that support your observations. when you answer the questions above, you may refer graphs in report PDF.
 
 What you need to submit in the end:
 1) A maximum 4 pages report (part 1 + 2 + 3) that ONLY includes graphs. No text.
 2) Answer the short questions listed above via BrS.
+
 
 
 
