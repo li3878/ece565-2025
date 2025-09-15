@@ -1,4 +1,4 @@
-## ECE 565 Programming Assignment 3 Fall 2025
+## ECE 565 Programming Assignment Part 3 Fall 2025
 We are moving to the ARM ISA for these tasks. You will have to rebuild gem5 to use the ARM target ISA.
 
 For this assignment you should focus on the *MinorCPU* Model located in /src/cpu/minor. The *MinorCPU* currently models a simple pipelined.  (Hint: Use the -h flag with your Python script to find out how to specify the CPU model you use.)
@@ -135,13 +135,21 @@ For this part, we want to be able to split up the Execution Unit into two stages
 4. **Submission instructions**
     
 The main deliverable of this assignment that will be graded is a report (and not the code). 
-    
-Submit a report (maximum two pages) via brightspace.
+
+Answer the following questions via BrS:
 
 1) Which (Oplat, IssueLat) pair will will produce the highest IPC? Why? (Max 20 words)
 2) Is there a case that (Oplat = 1, IusseLat = 6) will perform best? why? (Max 20 words)
-3) Plot bar-graphs with benchmarks on the X-axis and IPC on the Y-axis to show the result of the Branch Prediction Degradation
-4) Any observations from splitting the EX stage (Max 30 words)
+3) Any observations from splitting the EX stage (Max 30 words)
+
+Your report (maximum 2 pages) for part 3 should include:
+1) bar-graphs with benchmarks on the X-axis and IPC on the Y-axis to show the result of the Branch Prediction Degradation
+2) graphs that support your observations (from splitting the EX stage)
+
+What you need to submit in the end:
+1) A maximum 4 pages report (part 1 + 2 + 3) that ONLY includes graphs. No text.
+2) Answer the short questions listed above via BrS.
+
 
 
 
