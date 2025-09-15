@@ -1,4 +1,4 @@
-## ECE 565 Programming Assignment 3 Fall 2023
+## ECE 565 Programming Assignment 3 Fall 2025
 We are moving to the ARM ISA for these tasks. You will have to rebuild gem5 to use the ARM target ISA.
 
 For this assignment you should focus on the *MinorCPU* Model located in /src/cpu/minor. The *MinorCPU* currently models a simple pipelined.  (Hint: Use the -h flag with your Python script to find out how to specify the CPU model you use.)
@@ -134,6 +134,13 @@ For this part, we want to be able to split up the Execution Unit into two stages
 
 4. **Submission instructions**
     
-The main deliverable of this assignment that will be graded is a report (and not the code). The code will still have to be submitted as a single patch for plagiarism checking. But the code is not what gets graded.
+The main deliverable of this assignment that will be graded is a report (and not the code). 
     
-Submit a report (maximum three pages) with graphs and/or tables to present results via brightspace. Each graph should summarize the results of one of the experiments. (Suggested format: Plot bar-graphs with benchmarks on the X-axis and IPC on the Y-axis. For each benchmark, show two or more bars; one is the baseline and the rest correspond to your changes.) The report is NOT meant to be an exercise in writing. I do not expect any text beyond a 2-3 sentence summary of the key observations for each graph. However, this is a minimum and not a maximum. If you have text you want me to see (e.g., assumptions, simplifications, data-gathering difficulties etc.), feel free to write additional text in the report. 
+Submit a report (maximum two pages) via brightspace.
+
+1) Which (Oplat, IssueLat) pair will will produce the highest IPC? Why? (Max 20 words)
+2) Is there a case that (Oplat = 1, IusseLat = 6) will perform best? why? (Max 20 words)
+3) Plot bar-graphs with benchmarks on the X-axis and IPC on the Y-axis to show the result of the Branch Prediction Degradation
+4) Any observations from splitting the EX stage
+
+
