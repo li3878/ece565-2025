@@ -144,11 +144,12 @@ Answer the following questions:
 
 For part 3, maximum 2 pages, your report should include:
 1) bar-graphs with benchmarks on the X-axis and IPC on the Y-axis to show the result of the Branch Prediction Degradation
-2) graphs that support your observations. when you answer the questions above, you may refer graphs in the report PDF.
+2) graphs that support your answers. When you answer the questions above, you may refer graphs in the report PDF.
 
 What you need to submit in the BrS:
 1) A maximum 4 pages report (part 1 + 2 + 3) that ONLY includes graphs. No text.
 2) Answers to short questions listed above.
+
 
 
 
