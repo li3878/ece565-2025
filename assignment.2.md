@@ -1,5 +1,5 @@
-## ECE 565 Programming Assignment 2 Fall 2023
-### Professor Mithuna Thottethodi
+## ECE 565 Programming Assignment 2 Fall 2025
+### Professor T.N. Vijaykumar
 
 1. **Assignment**
     
@@ -127,6 +127,7 @@
 
 2. **Submission instructions**
     
-The main deliverable of this assignment that will be graded is a report (and not the code). The code will still have to be submitted as a single patch for plagiarism checking. But the code is not what gets graded. (Even though you're not changing the code of the gem5 simulator, your directory will have the part1 directory which is new code. The patch should include that new code (including the m5ops changes). 
+The main deliverable of this assignment that will be graded is a report (and not the code). 
     
-Submit a report (maximum three pages) with graphs and/or tables to present results via Gradescope.  At a minimum, your report should include (1) the generated assembly code and (2) the breakup of instructions of the different op classes for the three parts of the program (as individual pie charts for the three phases or as a stacked bar charts with one stacked bar for each phase).  
+Submit a report (maximum one pages) with graphs and/or tables to present results via BrS.  Your report should include the breakup of instructions of the different op classes for the three parts of the program (as individual pie charts for the three phases or as a stacked bar charts with one stacked bar for each phase).  
+
