@@ -141,6 +141,7 @@ Submit a report (maximum two pages) via brightspace.
 1) Which (Oplat, IssueLat) pair will will produce the highest IPC? Why? (Max 20 words)
 2) Is there a case that (Oplat = 1, IusseLat = 6) will perform best? why? (Max 20 words)
 3) Plot bar-graphs with benchmarks on the X-axis and IPC on the Y-axis to show the result of the Branch Prediction Degradation
-4) Any observations from splitting the EX stage
+4) Any observations from splitting the EX stage (Max 30 words)
+
 
 
