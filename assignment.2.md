@@ -1,4 +1,4 @@
-## ECE 565 Programming Assignment 2 Fall 2025
+## ECE 565 Programming Assignment part 2 Fall 2025
 ### Professor T.N. Vijaykumar
 
 1. **Assignment**
@@ -129,8 +129,9 @@
     
 The main deliverable of this assignment that will be graded is a report (and not the code). 
     
-Submit a report (maximum one pages) with graphs and/or tables to present results via BrS.  Your report should include the breakup of instructions of the different op classes for the three parts of the program (as individual pie charts for the three phases or as a stacked bar charts with one stacked bar for each phase).  
+Your report should include the breakup of instructions of the different op classes for the three parts of the program (as individual pie charts for the three phases or as a stacked bar charts with one stacked bar for each phase).  
 
-Note: Your report should only include graphs and/or tables.
+Important: For part 2, your report should only include graphs/tables, no text, maximum one page.
+
 
 
