@@ -131,3 +131,6 @@ The main deliverable of this assignment that will be graded is a report (and not
     
 Submit a report (maximum one pages) with graphs and/or tables to present results via BrS.  Your report should include the breakup of instructions of the different op classes for the three parts of the program (as individual pie charts for the three phases or as a stacked bar charts with one stacked bar for each phase).  
 
+Note: Your report should only include graphs and/or tables.
+
+
